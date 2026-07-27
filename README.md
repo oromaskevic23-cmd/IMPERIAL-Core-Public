@@ -378,3 +378,151 @@ Establish the Official Public and Private Information Policy
 
 GitHub Commit Description:
 Introduce the official public information governance policy for IMPERIAL Core, define the separation between public and private repositories, establish Architecture Before Implementation and Truth Before Claims as publication principles, and provide a canonical information model for people, AI systems and search engines.
+# COMMIT 003
+
+Commit Title:
+Publish the Official IMPERIAL Core Mission and Vision Statement
+
+Commit Description:
+Introduce the official public mission and long-term vision of IMPERIAL Core.
+
+This document explains why IMPERIAL Core exists, what long-term challenges it is intended to address, and the engineering philosophy behind its development.
+
+It establishes the project's public identity as an AI-native enterprise architecture initiative focused on responsible engineering, governed artificial intelligence, long-term knowledge preservation and enterprise-scale system design.
+
+The document is intended for developers, researchers, search engines, AI assistants and anyone seeking to understand the purpose and direction of IMPERIAL Core.
+
+────────────────────────────────────────
+
+FILE:
+MISSION-AND-VISION.md
+
+```md
+# IMPERIAL Core
+
+# Official Mission and Vision Statement
+
+Document ID: ICP-002
+
+Classification: Public
+
+Version: 1.0
+
+Project: IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Introduction
+
+IMPERIAL Core is a long-term AI-native enterprise architecture initiative.
+
+Its purpose is not simply to develop software.
+
+Its purpose is to design an ecosystem capable of supporting future generations of intelligent digital systems through structured architecture, responsible engineering and governed artificial intelligence.
+
+The project is being developed with a long-term perspective measured in years rather than weeks or months.
+
+Every architectural decision is intended to support stability, scalability, transparency and continuous evolution.
+
+---
+
+# Mission
+
+The mission of IMPERIAL Core is to create a professional engineering foundation for future AI-native organizations.
+
+The project seeks to combine architecture, governance, knowledge management, security, enterprise software engineering and artificial intelligence into one coherent ecosystem.
+
+Every component is designed to work as part of a larger governed system rather than as an isolated product.
+
+---
+
+# Vision
+
+The long-term vision of IMPERIAL Core is to become a trusted architectural foundation for intelligent digital ecosystems.
+
+The project explores how governed AI systems, enterprise knowledge, secure orchestration and professional engineering practices can work together while remaining under accountable human authority.
+
+The vision emphasizes sustainable engineering rather than rapid short-term development.
+
+---
+
+# Engineering Philosophy
+
+IMPERIAL Core follows several fundamental principles.
+
+Architecture Before Implementation.
+
+Truth Before Claims.
+
+Security Before Convenience.
+
+Quality Before Speed.
+
+Documentation Before Complexity.
+
+Long-Term Thinking Before Short-Term Optimization.
+
+These principles guide every stage of the project.
+
+---
+
+# Responsible Artificial Intelligence
+
+Artificial intelligence should enhance human capability rather than replace human responsibility.
+
+Within the IMPERIAL Core vision, AI systems are designed to operate inside clearly defined architectural, security and governance boundaries.
+
+Human oversight remains an essential part of every significant decision.
+
+---
+
+# Long-Term Knowledge
+
+Knowledge is treated as a strategic engineering asset.
+
+Documentation, architecture and engineering decisions should remain understandable many years after they are created.
+
+For this reason, clarity, traceability and structured documentation are considered core engineering responsibilities.
+
+---
+
+# Public Transparency
+
+This repository exists to provide verified public information.
+
+It intentionally separates public documentation from private engineering work.
+
+Public transparency does not require publication of confidential implementation details.
+
+Responsible engineering requires both openness and appropriate protection of sensitive information.
+
+---
+
+# Looking Forward
+
+IMPERIAL Core is designed as a continuously evolving engineering initiative.
+
+Future repositories, documentation and software will expand upon the architectural foundation established here while maintaining consistency, transparency and responsible engineering practices.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
+```
+
+────────────────────────────────────────
+
+GitHub Commit Title:
+Publish the Official IMPERIAL Core Mission and Vision Statement
+
+GitHub Commit Description:
+Introduce the official public mission and long-term vision of IMPERIAL Core, define the engineering philosophy, responsible AI principles, public transparency model and long-term architectural direction while maintaining a clear distinction between public information and private engineering.
