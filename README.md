@@ -4640,4 +4640,178 @@ By emphasizing maintainability, scalability, reliability, adaptability, governan
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Enterprise Architectural Knowledge System
+
+Document ID: ICP-037
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Knowledge is one of the most valuable assets of any long-term engineering organization.
+
+Software changes.
+
+Technologies evolve.
+
+Teams grow.
+
+Artificial intelligence becomes more capable.
+
+However, architectural knowledge should remain durable, understandable and continuously available.
+
+IMPERIAL Core therefore treats architectural knowledge as an enterprise system rather than a collection of unrelated documents.
+
+Its purpose is to preserve architectural understanding throughout decades of continuous engineering evolution.
+
+---
+
+## Architecture as Knowledge
+
+Architecture represents accumulated engineering knowledge.
+
+Every architectural principle, engineering standard, documented decision and governance rule contributes to the collective understanding of the ecosystem.
+
+Architecture therefore exists not only inside software but also inside documentation, engineering practices, terminology and organizational memory.
+
+The architectural knowledge system connects these elements into one coherent foundation.
+
+---
+
+## Knowledge Organization
+
+Architectural knowledge should remain structured.
+
+Every document should contribute to a unified knowledge base rather than exist in isolation.
+
+Knowledge should be organized through:
+
+- consistent terminology;
+- document identifiers;
+- version history;
+- architectural domains;
+- engineering relationships;
+- cross-references;
+- long-term traceability.
+
+A structured knowledge system significantly improves maintainability and future engineering efficiency.
+
+---
+
+## Traceability
+
+Engineering knowledge should remain traceable.
+
+Future engineers should be able to understand:
+
+- where an architectural principle originated;
+- why a decision was made;
+- which engineering problem it solved;
+- which documents describe it;
+- how it relates to the broader ecosystem.
+
+Traceability transforms documentation into long-term engineering infrastructure.
+
+---
+
+## Knowledge Evolution
+
+Knowledge continuously evolves.
+
+New architectural concepts should extend the existing knowledge system while preserving consistency.
+
+Historical architectural decisions should remain available for reference even when newer approaches are adopted.
+
+Architectural evolution should therefore increase understanding rather than replace previous knowledge.
+
+---
+
+## Human and AI Readability
+
+The architectural knowledge system should remain understandable for both humans and intelligent systems.
+
+Documentation should support:
+
+- software engineers;
+- enterprise architects;
+- researchers;
+- AI assistants;
+- autonomous engineering systems;
+- search engines;
+- documentation indexing platforms.
+
+Structured documentation improves discoverability, interoperability and long-term usability.
+
+---
+
+## Documentation Quality
+
+Every published document should contribute measurable value to the architectural knowledge base.
+
+Documentation should be:
+
+- technically accurate;
+- logically structured;
+- architecturally consistent;
+- professionally written;
+- evidence-oriented;
+- maintainable.
+
+Documentation quality directly influences the quality of future engineering decisions.
+
+---
+
+## Public Knowledge Base
+
+This repository serves as the official public architectural knowledge base of IMPERIAL Core.
+
+Its purpose is to communicate verified architectural information while maintaining a clear separation from protected engineering repositories containing implementation, runtime infrastructure, operational engineering and confidential development.
+
+Public transparency and protected engineering together strengthen the long-term sustainability of the ecosystem.
+
+---
+
+## Long-Term Vision
+
+The Enterprise Architectural Knowledge System is intended to remain valuable throughout many decades of technological evolution.
+
+Programming languages, AI models, cloud platforms and engineering methodologies will continue changing.
+
+Architectural knowledge should remain sufficiently stable, searchable and understandable to guide future generations of engineers without losing continuity.
+
+Knowledge should become increasingly valuable as the ecosystem expands.
+
+---
+
+## Conclusion
+
+The Enterprise Architectural Knowledge System establishes documentation as strategic engineering infrastructure.
+
+By combining structured knowledge, architectural traceability, disciplined documentation and responsible long-term governance, IMPERIAL Core creates a durable knowledge foundation capable of supporting future generations of AI-native enterprise systems.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
 
