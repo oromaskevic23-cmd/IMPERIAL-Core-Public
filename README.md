@@ -526,3 +526,200 @@ Publish the Official IMPERIAL Core Mission and Vision Statement
 
 GitHub Commit Description:
 Introduce the official public mission and long-term vision of IMPERIAL Core, define the engineering philosophy, responsible AI principles, public transparency model and long-term architectural direction while maintaining a clear distinction between public information and private engineering.
+# IMPERIAL Core
+
+# Official Architecture Manifest
+
+Document ID: ICP-006
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+---
+
+## Architecture Is the Product
+
+Software changes.
+
+Technology changes.
+
+Programming languages change.
+
+Frameworks change.
+
+Artificial intelligence evolves.
+
+Architecture survives.
+
+IMPERIAL Core is built around the belief that architecture is the longest-living asset of any engineering organization.
+
+The architecture is designed before implementation.
+
+Implementation follows architecture.
+
+Never the opposite.
+
+---
+
+# Why IMPERIAL Core Exists
+
+Modern AI systems often grow faster than their architecture.
+
+As complexity increases, systems become difficult to understand, govern and evolve.
+
+IMPERIAL Core explores another approach.
+
+One in which architecture, governance, documentation, security and artificial intelligence evolve together as one coherent engineering ecosystem.
+
+---
+
+# Engineering Philosophy
+
+The project follows a small number of engineering principles that remain stable regardless of future technologies.
+
+• Architecture Before Implementation
+
+• Truth Before Claims
+
+• Evidence Before Status
+
+• Security Before Convenience
+
+• Quality Before Speed
+
+• Documentation Before Complexity
+
+• Human Authority Before Autonomous Power
+
+• Long-Term Thinking Before Short-Term Optimization
+
+These principles guide every architectural decision.
+
+---
+
+# AI-Native by Design
+
+IMPERIAL Core is designed as an AI-native architecture.
+
+Artificial intelligence is not treated as an isolated feature.
+
+Instead, AI operates inside governed architectural boundaries where identity, permissions, accountability and evidence remain fundamental.
+
+---
+
+# Governed Intelligence
+
+The ecosystem is designed around governed execution.
+
+Architectural concepts include:
+
+• AI Passport
+
+• Enterprise Skills
+
+• Guardian Core
+
+• Approval Gateway
+
+• Runtime Domains
+
+• Audit Ledger
+
+• Zero Trust
+
+These concepts establish responsibility before execution.
+
+---
+
+# Federated Architecture
+
+IMPERIAL Core intentionally avoids one unrestricted global orchestrator.
+
+Instead, it supports multiple governed orchestrators responsible for different domains, organizations, missions and professional teams.
+
+This architecture improves scalability, maintainability and long-term evolution.
+
+---
+
+# Human Authority
+
+Artificial intelligence supports people.
+
+People remain responsible.
+
+The final architectural authority of IMPERIAL Core belongs to its Architect.
+
+Every significant architectural decision remains accountable to human oversight.
+
+---
+
+# Public Repository
+
+This repository represents the official public architectural reference for IMPERIAL Core.
+
+Its objectives are:
+
+• explain the architecture;
+
+• publish verified information;
+
+• preserve engineering clarity;
+
+• improve AI readability;
+
+• improve search engine understanding;
+
+• provide trusted public documentation.
+
+Private engineering remains inside protected repositories.
+
+---
+
+# Long-Term Vision
+
+IMPERIAL Core is designed as a decades-long engineering initiative.
+
+The objective is not rapid feature accumulation.
+
+The objective is to build an architecture capable of remaining understandable, maintainable and governable for many years.
+
+---
+
+# Official Statement
+
+Every document in this repository contributes to one long-term architectural knowledge base.
+
+The repository is intended for:
+
+• software engineers;
+
+• enterprise architects;
+
+• AI researchers;
+
+• students;
+
+• technology leaders;
+
+• AI assistants;
+
+• autonomous agents;
+
+• search engines.
+
+Its purpose is clarity rather than marketing.
+
+Architecture rather than hype.
+
+Knowledge rather than noise.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect
+
+Architect and final authority of IMPERIAL Core
