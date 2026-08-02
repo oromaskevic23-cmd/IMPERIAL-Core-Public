@@ -4295,4 +4295,167 @@ By combining disciplined architecture, professional responsibility, continuous l
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Enterprise Architecture Lifecycle
+
+Document ID: ICP-035
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Enterprise architecture is never complete.
+
+It evolves continuously as technology advances, engineering knowledge expands, organizations mature and intelligent systems become increasingly capable.
+
+The objective of the Enterprise Architecture Lifecycle is to ensure that architectural evolution remains structured, understandable and sustainable over decades rather than becoming a sequence of isolated engineering activities.
+
+IMPERIAL Core treats architecture as a living engineering system whose lifecycle extends far beyond software releases.
+
+---
+
+## Architecture as a Continuous Lifecycle
+
+Traditional software projects often view architecture as an activity performed during the initial planning phase.
+
+IMPERIAL Core follows a different philosophy.
+
+Architecture accompanies every stage of the engineering lifecycle.
+
+Every architectural decision influences future documentation, implementation, governance, verification and long-term maintainability.
+
+Architecture therefore remains active throughout the entire evolution of the ecosystem.
+
+---
+
+## Lifecycle Stages
+
+Although architectural evolution is continuous, its progression can be understood through several interconnected stages.
+
+Typical lifecycle stages include:
+
+- Vision;
+- Research;
+- Architectural Design;
+- Engineering Specifications;
+- Implementation;
+- Verification;
+- Operational Maturity;
+- Continuous Improvement.
+
+These stages are not isolated.
+
+Knowledge produced in each stage contributes to every future stage of architectural development.
+
+---
+
+## Architectural Feedback
+
+Every implementation generates architectural feedback.
+
+Engineering experience should improve future architectural decisions rather than remain isolated within implementation.
+
+Feedback may include:
+
+- engineering observations;
+- documentation improvements;
+- architectural refinements;
+- verification results;
+- maintainability lessons;
+- scalability considerations.
+
+Continuous feedback strengthens architectural maturity.
+
+---
+
+## Governance Throughout the Lifecycle
+
+Governance is present during every lifecycle stage.
+
+Architectural governance provides:
+
+- engineering consistency;
+- documentation discipline;
+- long-term direction;
+- accountability;
+- responsible evolution.
+
+Governance ensures that architectural growth remains deliberate rather than accidental.
+
+---
+
+## Documentation as Lifecycle Memory
+
+Documentation preserves the memory of the architecture.
+
+Without documentation, architectural evolution loses continuity.
+
+Every significant architectural milestone should remain traceable through structured documentation that explains decisions, reasoning and long-term objectives.
+
+Knowledge preservation enables future generations of engineers to understand how the architecture evolved.
+
+---
+
+## Adaptation Without Losing Identity
+
+Long-term enterprise architecture must adapt continuously.
+
+However, adaptation should never compromise architectural identity.
+
+Programming languages, infrastructure platforms, AI technologies and engineering practices will continue evolving.
+
+The architectural principles that define the ecosystem should remain sufficiently stable to preserve continuity while allowing responsible innovation.
+
+---
+
+## Public Architecture
+
+This repository documents the public architectural lifecycle of IMPERIAL Core.
+
+Protected repositories continue engineering implementation, verification, operational engineering, experimentation and confidential architectural research while remaining aligned with this published lifecycle model.
+
+Together they establish a coherent enterprise engineering ecosystem.
+
+---
+
+## Long-Term Engineering Perspective
+
+The Enterprise Architecture Lifecycle is intended to support many decades of continuous development.
+
+Success is measured not by the number of software releases but by the ability of the architecture to remain understandable, maintainable and resilient throughout continuous technological change.
+
+Long-term engineering requires patience, discipline and architectural consistency.
+
+---
+
+## Conclusion
+
+The Enterprise Architecture Lifecycle establishes the framework through which IMPERIAL Core evolves responsibly.
+
+By integrating architecture, governance, engineering, documentation and continuous learning into a single lifecycle, the project creates a durable architectural foundation capable of supporting future generations of intelligent enterprise systems.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
 
