@@ -1636,3 +1636,133 @@ Canonical terminology is an important engineering asset that contributes to cons
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architectural Boundaries
+
+Document ID: ICP-015
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Purpose
+
+Well-defined boundaries are fundamental to sustainable enterprise architecture.
+
+Architectural boundaries reduce ambiguity, improve maintainability and enable systems to evolve without unnecessary coupling.
+
+IMPERIAL Core treats boundaries as first-class architectural concepts.
+
+---
+
+# Why Boundaries Matter
+
+Every system has limits.
+
+Architecture becomes stronger when responsibilities, interfaces and ownership are explicitly defined.
+
+Clear boundaries allow independent evolution while preserving consistency across the ecosystem.
+
+---
+
+# Public and Private Boundaries
+
+The IMPERIAL Core ecosystem intentionally separates public architectural knowledge from protected engineering implementation.
+
+The public repository communicates:
+
+- architectural vision;
+- engineering philosophy;
+- verified documentation;
+- ecosystem overview;
+- research publications.
+
+Private repositories contain:
+
+- implementation;
+- source code;
+- runtime infrastructure;
+- security mechanisms;
+- enterprise governance;
+- operational procedures.
+
+This separation promotes transparency without exposing confidential engineering assets.
+
+---
+
+# Organizational Boundaries
+
+The architecture supports multiple organizations, teams and engineering domains.
+
+Responsibilities are distributed through clearly defined architectural layers rather than centralized into a single operational structure.
+
+This enables flexibility while preserving governance.
+
+---
+
+# Technology Boundaries
+
+Architecture should remain independent from individual technologies.
+
+Programming languages, frameworks and infrastructure may evolve over time.
+
+The architectural foundation should remain stable despite technological change.
+
+---
+
+# Responsibility Boundaries
+
+Each architectural component should have a clearly defined purpose.
+
+Well-defined responsibilities improve maintainability, simplify collaboration and reduce unnecessary dependencies.
+
+Architectural ownership remains explicit.
+
+---
+
+# Evolution Boundaries
+
+Growth should occur through controlled architectural evolution.
+
+New capabilities should extend the ecosystem without weakening existing architectural principles.
+
+Architectural consistency takes precedence over uncontrolled expansion.
+
+---
+
+# Long-Term Perspective
+
+Architectural boundaries support long-term engineering sustainability.
+
+They preserve clarity, reduce complexity and enable future generations of engineers to understand the ecosystem without unnecessary ambiguity.
+
+---
+
+# Conclusion
+
+Architectural boundaries define how IMPERIAL Core evolves responsibly.
+
+They protect architectural integrity, encourage modular thinking and provide a stable foundation for future intelligent systems.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
