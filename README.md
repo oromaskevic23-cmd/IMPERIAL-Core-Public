@@ -1178,3 +1178,123 @@ It ensures that long-term architectural evolution remains transparent, responsib
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official AI-Native Architecture
+
+Document ID: ICP-011
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Purpose
+
+Artificial intelligence is transforming how software is designed, built and operated.
+
+IMPERIAL Core explores an architectural approach where AI is not an isolated feature but an integral part of a governed enterprise ecosystem.
+
+The objective is to establish a long-term architectural foundation capable of supporting responsible AI-native organizations.
+
+---
+
+# What AI-Native Means
+
+Within IMPERIAL Core, AI-native does not simply mean integrating language models into existing software.
+
+It means designing architecture where intelligent systems, governance, documentation, security and engineering processes evolve together as a coherent system.
+
+Architecture defines how AI participates within clearly established boundaries.
+
+---
+
+# Human-Centered Intelligence
+
+Artificial intelligence should enhance human capability rather than replace human responsibility.
+
+Every significant architectural decision remains under accountable human authority.
+
+Human oversight is considered a permanent component of the architecture.
+
+---
+
+# Governed AI
+
+AI systems should operate inside clearly defined governance.
+
+Architectural concepts such as identity, permissions, approval processes, security boundaries and auditability contribute to trustworthy intelligent systems.
+
+Governance is treated as an engineering capability rather than an administrative process.
+
+---
+
+# Enterprise Perspective
+
+IMPERIAL Core is designed with enterprise-scale thinking.
+
+The architecture emphasizes maintainability, documentation quality, interoperability and controlled evolution.
+
+AI capabilities are expected to integrate into larger organizational structures rather than exist as isolated applications.
+
+---
+
+# Knowledge as Infrastructure
+
+Knowledge is considered a strategic engineering resource.
+
+Documentation preserves architectural intent, supports collaboration and enables future engineers and AI systems to understand design decisions long after implementation.
+
+Structured knowledge contributes directly to long-term system quality.
+
+---
+
+# Continuous Evolution
+
+AI technologies will continue to evolve.
+
+A durable architecture should remain adaptable without sacrificing consistency or engineering discipline.
+
+IMPERIAL Core promotes controlled architectural evolution guided by documented principles rather than technological trends.
+
+---
+
+# Public and Private Architecture
+
+The public repository communicates architectural concepts, engineering philosophy and verified documentation.
+
+Implementation, runtime infrastructure, security mechanisms and operational engineering remain inside protected repositories.
+
+This separation supports both transparency and responsible development.
+
+---
+
+# Conclusion
+
+IMPERIAL Core approaches AI-native engineering as a long-term architectural discipline.
+
+The project explores how intelligent systems can be designed with governance, accountability, security and sustainable engineering principles from the beginning.
+
+The objective is to create an architecture capable of supporting future generations of responsible AI systems.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
+
