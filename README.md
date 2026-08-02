@@ -2706,3 +2706,130 @@ By protecting architectural knowledge alongside software development, IMPERIAL C
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Enterprise Architecture Principles
+
+Document ID: ICP-024
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Enterprise architecture provides the structural foundation that allows complex systems to evolve without losing consistency, governance or long-term maintainability.
+
+IMPERIAL Core applies enterprise architecture principles from the earliest stages of development rather than introducing them after implementation.
+
+Architecture is treated as the primary engineering discipline that guides every future technical decision.
+
+---
+
+## Architecture Before Implementation
+
+The fundamental engineering philosophy of IMPERIAL Core is simple:
+
+Architecture defines the system.
+
+Implementation realizes the architecture.
+
+Implementation must never redefine architectural intent.
+
+Every significant engineering activity should originate from documented architectural decisions before development begins.
+
+---
+
+## Enterprise Thinking
+
+Enterprise architecture considers the entire ecosystem rather than isolated software components.
+
+Each architectural element should clearly define:
+
+- responsibilities;
+- interfaces;
+- dependencies;
+- governance boundaries;
+- security boundaries;
+- documentation requirements;
+- lifecycle expectations.
+
+This approach reduces complexity while supporting long-term scalability.
+
+---
+
+## Architectural Consistency
+
+Consistency is maintained through shared principles rather than individual implementation choices.
+
+Every repository, document and future subsystem should reinforce the same architectural language, terminology and engineering philosophy.
+
+Consistency enables sustainable growth across many years of development.
+
+---
+
+## Governance
+
+Architecture requires governance.
+
+Engineering decisions should be transparent, documented and aligned with established architectural principles.
+
+Governance reduces unnecessary complexity, prevents architectural drift and preserves engineering quality over time.
+
+---
+
+## Documentation as Architecture
+
+Documentation is not supplementary material.
+
+It is an architectural artifact.
+
+Every public document contributes to the collective understanding of the ecosystem and should remain technically accurate, maintainable and understandable for both people and AI systems.
+
+---
+
+## Long-Term Sustainability
+
+Technology continuously changes.
+
+Architectural principles should remain stable enough to survive multiple generations of programming languages, frameworks and infrastructure.
+
+Long-term sustainability depends on preserving architectural integrity rather than following short-term technological trends.
+
+---
+
+## Public Architecture
+
+This repository represents the public architectural foundation of IMPERIAL Core.
+
+Protected engineering repositories continue implementation, validation, testing, security and operational development while remaining aligned with these published enterprise architecture principles.
+
+---
+
+## Conclusion
+
+Enterprise architecture provides the discipline required to build systems that remain understandable, governable and maintainable over decades.
+
+IMPERIAL Core adopts these principles as permanent engineering commitments guiding every future stage of architectural evolution.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
