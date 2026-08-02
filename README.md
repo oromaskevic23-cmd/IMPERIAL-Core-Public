@@ -1896,3 +1896,116 @@ By treating documentation as an architectural asset, the project establishes a r
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Responsible AI Principles
+
+Document ID: ICP-017
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Purpose
+
+Artificial intelligence should be developed with responsibility, transparency and long-term accountability.
+
+IMPERIAL Core considers responsible AI to be an architectural discipline rather than a collection of isolated technical safeguards.
+
+The objective is to establish principles that encourage trustworthy intelligent systems while preserving human authority and engineering integrity.
+
+---
+
+# Human Authority
+
+Artificial intelligence supports human decision-making.
+
+Responsibility for significant architectural, engineering and organizational decisions remains with accountable human leadership.
+
+Human authority is a permanent architectural principle of IMPERIAL Core.
+
+---
+
+# Transparency
+
+AI systems should operate within clearly documented architectural boundaries.
+
+Public documentation should accurately describe architectural concepts without making unsupported claims regarding implementation, deployment or operational capabilities.
+
+Transparency strengthens trust.
+
+---
+
+# Accountability
+
+Every intelligent system should operate within defined governance and responsibility structures.
+
+Architectural accountability improves maintainability, enables informed decision-making and supports long-term system reliability.
+
+---
+
+# Safety Through Architecture
+
+Responsible AI begins with sound architecture.
+
+Well-defined boundaries, governance models, documentation standards and engineering principles contribute to safer intelligent systems throughout their lifecycle.
+
+---
+
+# Continuous Improvement
+
+Responsible AI is an ongoing engineering process.
+
+Architectural principles should evolve alongside technology while preserving consistency, traceability and long-term engineering quality.
+
+Learning and improvement are continuous responsibilities.
+
+---
+
+# Public Knowledge
+
+This repository presents the public architectural philosophy of responsible AI within IMPERIAL Core.
+
+Private engineering implementation, operational controls and security mechanisms remain inside protected repositories.
+
+This separation preserves both openness and responsible engineering practice.
+
+---
+
+# Long-Term Perspective
+
+Artificial intelligence will continue to evolve.
+
+The architectural principles governing intelligent systems should remain stable enough to guide future development while adapting to new technologies through disciplined engineering.
+
+Long-term responsibility is essential for sustainable innovation.
+
+---
+
+# Conclusion
+
+Responsible AI is a foundational engineering principle of IMPERIAL Core.
+
+By combining governance, transparency, documentation and accountable human authority, the project seeks to contribute to the development of trustworthy AI-native enterprise systems.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
