@@ -942,4 +942,110 @@ They establish how the project is designed, documented and governed while preser
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
 
+# Official Architectural Decision Principles
+
+Document ID: ICP-009
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Purpose
+
+Every long-term engineering system requires consistent architectural decisions.
+
+IMPERIAL Core treats architectural decisions as durable engineering assets rather than temporary implementation choices.
+
+The purpose of this document is to define how architectural decisions are evaluated, approved and preserved throughout the evolution of the project.
+
+---
+
+# Long-Term Thinking
+
+Architectural decisions should remain valuable for years rather than for individual development iterations.
+
+Short-term implementation convenience should never compromise long-term architectural quality.
+
+---
+
+# Consistency
+
+New decisions should strengthen the existing architecture.
+
+Changes that introduce unnecessary complexity, inconsistency or duplication should be avoided.
+
+---
+
+# Evidence
+
+Architectural decisions should be supported by technical reasoning.
+
+Whenever possible, decisions should be traceable to documented requirements, engineering principles or verified evidence.
+
+---
+
+# Documentation
+
+Every significant architectural decision should be documented.
+
+Clear documentation enables future engineers, researchers and AI systems to understand not only what was designed, but why it was designed.
+
+---
+
+# Human Responsibility
+
+Final architectural responsibility remains under accountable human authority.
+
+Artificial intelligence may assist engineering work but does not replace architectural responsibility.
+
+---
+
+# Public and Private Boundaries
+
+Public repositories explain architectural intent.
+
+Private repositories implement engineering solutions.
+
+The distinction between public architecture and private implementation remains an essential engineering principle.
+
+---
+
+# Continuous Evolution
+
+Architecture is expected to evolve.
+
+Evolution should occur through documented, traceable and well-governed decisions rather than uncontrolled change.
+
+---
+
+# Conclusion
+
+Architectural decisions define the future direction of IMPERIAL Core.
+
+Their quality directly influences the maintainability, scalability and long-term success of the project.
+
+For this reason, architectural decision-making is treated as one of the most important engineering responsibilities.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
