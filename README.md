@@ -3246,4 +3246,135 @@ By combining independent systems with shared architectural principles, the ecosy
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architectural Identity
+
+Document ID: ICP-028
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Every long-term engineering initiative requires a clear architectural identity.
+
+Architecture is more than software implementation.
+
+It defines purpose, principles, boundaries, governance, engineering philosophy and the long-term direction of an ecosystem.
+
+The purpose of this document is to describe the architectural identity of IMPERIAL Core as a long-term AI-native enterprise architecture.
+
+---
+
+## Architectural Identity
+
+IMPERIAL Core is designed as an enterprise architecture rather than a single application, framework or software product.
+
+Its objective is to establish a durable engineering foundation capable of supporting intelligent systems, enterprise knowledge, responsible AI governance and long-term architectural evolution.
+
+The architecture is intended to remain understandable, maintainable and adaptable across multiple generations of technology.
+
+---
+
+## Identity Through Principles
+
+The identity of IMPERIAL Core is defined by engineering principles rather than individual technologies.
+
+Core architectural principles include:
+
+- Architecture Before Implementation;
+- Truth Before Claims;
+- Evidence Before Status;
+- Security Before Convenience;
+- Documentation Before Complexity;
+- Human Authority Before Autonomous Power;
+- Long-Term Thinking Before Short-Term Optimization.
+
+These principles remain stable even as implementation technologies evolve.
+
+---
+
+## Identity Through Structure
+
+The ecosystem is organized through clearly defined architectural components.
+
+Each component has an explicit purpose, documented responsibilities and well-defined architectural boundaries.
+
+Growth is achieved by extending the architecture rather than replacing it.
+
+Architectural consistency is considered essential for sustainable evolution.
+
+---
+
+## Identity Through Governance
+
+Governance preserves architectural integrity.
+
+Engineering decisions should remain transparent, documented and aligned with established architectural principles.
+
+Responsible governance enables continuous innovation without sacrificing consistency or long-term maintainability.
+
+---
+
+## Identity Through Knowledge
+
+Knowledge is a permanent architectural asset.
+
+Documentation preserves engineering intent, supports collaboration and enables future engineers and AI systems to understand architectural decisions.
+
+Every published document contributes to the architectural identity of the ecosystem.
+
+---
+
+## Public Identity
+
+This repository represents the official public architectural identity of IMPERIAL Core.
+
+Its purpose is to communicate verified architectural knowledge, engineering philosophy and long-term system design.
+
+Implementation, operational engineering, runtime infrastructure and confidential development continue within protected repositories.
+
+---
+
+## Long-Term Perspective
+
+Architectural identity should remain recognizable throughout decades of continuous evolution.
+
+Technologies may change.
+
+Implementation may evolve.
+
+The architectural identity should remain stable enough to preserve continuity while supporting innovation.
+
+---
+
+## Conclusion
+
+Architectural identity is the foundation that unifies every engineering activity within IMPERIAL Core.
+
+By combining disciplined architecture, responsible governance, durable documentation and long-term engineering principles, the ecosystem establishes a consistent identity capable of supporting future generations of AI-native enterprise systems.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
 
