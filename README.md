@@ -4458,4 +4458,186 @@ By integrating architecture, governance, engineering, documentation and continuo
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architectural Quality Attributes
+
+Document ID: ICP-036
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Enterprise architecture should be evaluated not only by its functional capabilities but also by its long-term engineering qualities.
+
+A system may successfully implement individual features while remaining difficult to understand, maintain or evolve.
+
+For this reason, IMPERIAL Core defines a set of architectural quality attributes that guide engineering decisions throughout the entire lifecycle of the ecosystem.
+
+These attributes represent engineering objectives rather than implementation-specific metrics.
+
+They provide a common architectural language for evaluating long-term system quality.
+
+---
+
+## Architectural Philosophy
+
+Quality should be designed into the architecture from the beginning.
+
+It cannot be reliably added after implementation.
+
+Architectural quality emerges through deliberate engineering decisions, disciplined documentation, responsible governance and continuous architectural refinement.
+
+Every major engineering activity should strengthen one or more quality attributes without unnecessarily compromising others.
+
+---
+
+## Maintainability
+
+Maintainability is the ability of the architecture to remain understandable and manageable as the ecosystem grows.
+
+Maintainable systems exhibit:
+
+- clear responsibilities;
+- modular structure;
+- consistent terminology;
+- comprehensive documentation;
+- predictable evolution.
+
+Long-term maintainability significantly reduces engineering complexity and technical debt.
+
+---
+
+## Scalability
+
+Architecture should support sustainable growth.
+
+Scalability includes:
+
+- organizational scalability;
+- engineering scalability;
+- knowledge scalability;
+- architectural scalability;
+- future AI capability expansion.
+
+Growth should occur through architectural extension rather than architectural replacement.
+
+---
+
+## Reliability
+
+Reliable architecture behaves predictably.
+
+Reliability begins with disciplined engineering rather than operational fixes.
+
+Well-defined boundaries, documentation, governance and architectural consistency contribute directly to long-term reliability.
+
+Engineering predictability is considered an architectural objective.
+
+---
+
+## Adaptability
+
+Technology evolves continuously.
+
+A resilient architecture should adapt without losing its identity.
+
+Adaptability enables the ecosystem to incorporate new technologies, engineering practices and intelligent capabilities while preserving architectural continuity.
+
+Stable principles make controlled adaptation possible.
+
+---
+
+## Understandability
+
+Architecture should remain understandable to:
+
+- software engineers;
+- enterprise architects;
+- researchers;
+- future contributors;
+- AI assistants;
+- documentation systems.
+
+Clear structure improves collaboration, reduces ambiguity and accelerates future engineering work.
+
+Understanding is an engineering quality attribute rather than merely a documentation concern.
+
+---
+
+## Governance Quality
+
+Architectural governance contributes directly to quality.
+
+Transparent decision-making, documented responsibilities, evidence-based engineering and accountable leadership strengthen the long-term health of the ecosystem.
+
+Governance protects architectural integrity throughout continuous evolution.
+
+---
+
+## Knowledge Quality
+
+Engineering knowledge should remain durable.
+
+Documentation should preserve:
+
+- architectural intent;
+- design rationale;
+- engineering principles;
+- strategic direction;
+- historical context.
+
+Knowledge quality determines how effectively future generations can continue architectural evolution.
+
+---
+
+## Public Architecture
+
+This repository defines the public architectural quality model of IMPERIAL Core.
+
+Protected engineering repositories continue implementation, testing, runtime engineering, operational procedures and confidential development while maintaining alignment with these architectural quality attributes.
+
+Together they establish a comprehensive enterprise engineering foundation.
+
+---
+
+## Long-Term Perspective
+
+Architectural quality is measured across decades rather than software releases.
+
+Every engineering decision should contribute to an architecture that becomes easier to understand, easier to evolve and more valuable over time.
+
+Quality is therefore viewed as a continuous engineering investment rather than a final destination.
+
+---
+
+## Conclusion
+
+Architectural quality attributes define the characteristics that enable IMPERIAL Core to remain sustainable throughout long-term evolution.
+
+By emphasizing maintainability, scalability, reliability, adaptability, governance and knowledge preservation, the project establishes an architectural foundation capable of supporting future generations of AI-native enterprise systems with consistency and engineering excellence.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
 
