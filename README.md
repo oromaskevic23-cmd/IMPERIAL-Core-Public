@@ -3954,4 +3954,165 @@ By emphasizing deliberate design, disciplined governance, human understanding an
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architectural Decision-Making Framework
+
+Document ID: ICP-033
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Every long-term engineering ecosystem depends upon the quality of its architectural decisions.
+
+Technology changes.
+
+Engineering teams evolve.
+
+Artificial intelligence continues to advance.
+
+However, poor architectural decisions can influence a system for many years.
+
+For this reason, IMPERIAL Core treats architectural decision-making as one of the most important engineering disciplines within the entire ecosystem.
+
+This document defines the principles that guide architectural decisions throughout the long-term evolution of IMPERIAL Core.
+
+---
+
+## Decision Before Implementation
+
+Implementation should never become the source of architectural direction.
+
+Every significant implementation should originate from an architectural decision that clearly defines:
+
+- the engineering objective;
+- architectural responsibilities;
+- expected benefits;
+- long-term consequences;
+- governance implications;
+- documentation requirements.
+
+Architecture exists to reduce uncertainty before engineering begins.
+
+---
+
+## Long-Term Perspective
+
+Architectural decisions should never optimize only for immediate implementation.
+
+Every important decision should be evaluated according to its long-term effects on:
+
+- maintainability;
+- scalability;
+- interoperability;
+- governance;
+- documentation;
+- engineering complexity;
+- future evolution.
+
+A solution that appears efficient today may become an obstacle tomorrow.
+
+Long-term thinking remains a permanent architectural principle.
+
+---
+
+## Evidence-Based Decisions
+
+Architectural decisions should be supported by technical reasoning rather than assumptions.
+
+Engineering evidence may include:
+
+- documented requirements;
+- architectural analysis;
+- engineering research;
+- verified experimentation;
+- implementation experience;
+- long-term risk assessment.
+
+Evidence improves architectural quality while reducing unnecessary redesign.
+
+---
+
+## Documentation
+
+Every significant architectural decision should become part of the engineering knowledge base.
+
+Documentation should explain:
+
+- what decision was made;
+- why it was made;
+- which alternatives were considered;
+- which engineering principles influenced the outcome;
+- how the decision contributes to the long-term architecture.
+
+Well-documented decisions preserve engineering knowledge across generations of contributors.
+
+---
+
+## Consistency
+
+Architectural decisions should reinforce existing principles rather than introduce unnecessary contradictions.
+
+Consistency allows large engineering ecosystems to evolve without losing architectural identity.
+
+Every decision should strengthen the overall coherence of IMPERIAL Core.
+
+---
+
+## Human Responsibility
+
+Artificial intelligence may assist architectural analysis, documentation and engineering research.
+
+Final architectural responsibility, however, remains under accountable human authority.
+
+Human judgment remains essential for strategic architectural direction.
+
+---
+
+## Public Architecture
+
+This repository documents the public decision-making philosophy of IMPERIAL Core.
+
+Protected engineering repositories continue implementation, validation, runtime engineering and confidential architectural research while remaining aligned with these published decision-making principles.
+
+---
+
+## Long-Term Vision
+
+The architectural decision-making framework is intended to remain valuable throughout decades of engineering evolution.
+
+As technologies change, the quality of architectural decisions will continue to determine the resilience, maintainability and long-term success of the ecosystem.
+
+---
+
+## Conclusion
+
+Architectural decision-making is one of the foundations of IMPERIAL Core.
+
+By combining evidence, long-term thinking, disciplined documentation, accountable governance and consistent engineering principles, the ecosystem establishes a durable framework for responsible architectural evolution.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
 
