@@ -4115,4 +4115,184 @@ By combining evidence, long-term thinking, disciplined documentation, accountabl
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Enterprise Engineering Culture
+
+Document ID: ICP-034
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Technology alone does not create exceptional engineering systems.
+
+Long-term success depends upon engineering culture.
+
+Architecture, documentation, governance, security and responsible decision-making are sustained not only through technical processes, but also through the professional culture shared by everyone who contributes to the ecosystem.
+
+IMPERIAL Core is built with the belief that engineering culture is itself an architectural asset.
+
+This document defines the principles that shape that culture.
+
+---
+
+## Engineering as a Discipline
+
+Engineering is the disciplined practice of transforming architectural ideas into reliable, maintainable and understandable systems.
+
+Every implementation should demonstrate professionalism, consistency and respect for long-term architectural objectives.
+
+Short-term success should never compromise the long-term quality of the ecosystem.
+
+Engineering excellence is achieved through discipline rather than speed.
+
+---
+
+## Architecture First
+
+Within IMPERIAL Core, architecture always precedes implementation.
+
+Before software is written, architecture should define:
+
+- purpose;
+- responsibilities;
+- interfaces;
+- boundaries;
+- governance;
+- documentation expectations;
+- long-term consequences.
+
+Architecture provides direction.
+
+Implementation provides realization.
+
+This relationship remains fundamental throughout the lifecycle of the project.
+
+---
+
+## Professional Responsibility
+
+Every engineering contribution becomes part of a much larger ecosystem.
+
+Professional responsibility includes:
+
+- writing maintainable solutions;
+- documenting architectural intent;
+- respecting established engineering principles;
+- preserving long-term consistency;
+- improving knowledge rather than increasing complexity.
+
+Engineering quality is measured not only by functionality, but also by sustainability.
+
+---
+
+## Documentation Culture
+
+Documentation is treated as engineering work.
+
+Every architectural decision should remain understandable years after it is made.
+
+Clear documentation enables future engineers, researchers and intelligent systems to understand not only how something works, but why it exists.
+
+Knowledge preservation is considered an essential engineering responsibility rather than optional administrative work.
+
+---
+
+## Continuous Learning
+
+Technology evolves continuously.
+
+Engineering culture should encourage continuous learning without abandoning architectural stability.
+
+New knowledge should strengthen the existing architectural foundation rather than replace it unnecessarily.
+
+Learning is viewed as an ongoing engineering process that supports responsible innovation.
+
+---
+
+## Collaboration
+
+Large engineering ecosystems require effective collaboration.
+
+Successful collaboration depends upon:
+
+- shared terminology;
+- consistent documentation;
+- architectural transparency;
+- mutual respect;
+- clearly defined responsibilities.
+
+Architecture provides the common language that enables collaboration across engineering domains.
+
+---
+
+## Responsible Innovation
+
+Innovation is encouraged when it strengthens architecture.
+
+New technologies should be evaluated according to:
+
+- architectural compatibility;
+- engineering value;
+- maintainability;
+- security;
+- governance implications;
+- long-term sustainability.
+
+Responsible innovation balances experimentation with engineering discipline.
+
+---
+
+## Public Engineering
+
+The public repository communicates the engineering culture and architectural philosophy of IMPERIAL Core.
+
+Protected repositories continue implementation, testing, operational engineering, security research and confidential development.
+
+Together they create an engineering environment that values both openness and responsible protection of implementation details.
+
+---
+
+## Long-Term Vision
+
+The engineering culture of IMPERIAL Core is intended to remain relevant throughout decades of technological evolution.
+
+Programming languages, infrastructure platforms and artificial intelligence systems will continue changing.
+
+Professional engineering principles should remain stable enough to guide every future generation of contributors.
+
+The objective is to create an ecosystem where engineering quality becomes self-reinforcing through architecture, documentation and governance.
+
+---
+
+## Conclusion
+
+Engineering culture is one of the strongest foundations of IMPERIAL Core.
+
+By combining disciplined architecture, professional responsibility, continuous learning, structured documentation and responsible innovation, the project establishes an engineering culture capable of supporting long-term AI-native enterprise architecture for decades to come.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
 
