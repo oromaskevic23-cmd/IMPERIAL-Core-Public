@@ -5131,3 +5131,172 @@ By combining architecture-first thinking, disciplined governance, durable docume
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architectural Foundations
+
+Document ID: ICP-040
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Every enduring engineering ecosystem is built upon stable foundations.
+
+Without strong architectural foundations, even technically successful implementations gradually become difficult to understand, difficult to maintain and increasingly expensive to evolve.
+
+The purpose of this document is to define the foundational architectural concepts upon which the entire IMPERIAL Core ecosystem is designed.
+
+These foundations are intended to remain stable across decades of technological evolution while supporting continuous engineering innovation.
+
+---
+
+## Foundations Before Features
+
+Software features are temporary.
+
+Architecture is enduring.
+
+Individual technologies, programming languages, frameworks and infrastructure platforms will inevitably change.
+
+Architectural foundations should remain sufficiently stable to support those changes without requiring the entire ecosystem to be redesigned.
+
+For this reason, IMPERIAL Core prioritizes architectural stability over implementation convenience.
+
+---
+
+## Core Architectural Foundations
+
+The architectural foundation of IMPERIAL Core is built upon several permanent engineering principles.
+
+These include:
+
+- Architecture Before Implementation;
+- Truth Before Claims;
+- Evidence Before Status;
+- Long-Term Engineering;
+- Responsible Artificial Intelligence;
+- Enterprise Governance;
+- Knowledge Preservation;
+- Documentation as Engineering;
+- Human Accountability;
+- Sustainable Evolution.
+
+Together these principles establish the permanent identity of the architecture.
+
+---
+
+## Foundation Through Structure
+
+Architecture should organize complexity rather than increase it.
+
+Every architectural component should possess:
+
+- a clearly defined responsibility;
+- explicit architectural boundaries;
+- documented interfaces;
+- governed evolution;
+- traceable engineering decisions.
+
+Structure enables sustainable engineering growth while preserving clarity.
+
+---
+
+## Foundation Through Governance
+
+Governance is part of the architectural foundation.
+
+It provides continuity between engineering generations by ensuring that architectural decisions remain consistent, documented and accountable.
+
+Governance protects the architecture from fragmentation while encouraging responsible innovation.
+
+---
+
+## Foundation Through Knowledge
+
+Knowledge represents long-term engineering capital.
+
+Architectural documentation should preserve:
+
+- engineering rationale;
+- design intent;
+- architectural principles;
+- governance decisions;
+- enterprise terminology;
+- historical context.
+
+Knowledge preservation enables future engineers to continue architectural evolution without losing accumulated understanding.
+
+---
+
+## Foundation Through Documentation
+
+Documentation is not created after engineering.
+
+Documentation evolves together with architecture.
+
+Every public document should strengthen the architectural foundation by improving clarity, traceability and consistency.
+
+Well-structured documentation transforms architecture into durable engineering knowledge.
+
+---
+
+## Foundation for Intelligent Systems
+
+Artificial intelligence should operate inside architectural foundations rather than replace them.
+
+Governance, documentation, engineering discipline and accountable human authority provide the stable environment within which intelligent systems can evolve responsibly.
+
+Architecture therefore becomes the framework that enables trustworthy AI-native engineering.
+
+---
+
+## Public Architecture
+
+This repository represents the official public architectural foundation of IMPERIAL Core.
+
+Protected repositories continue implementation, verification, operational engineering, runtime infrastructure, security research and confidential development while preserving consistency with these published architectural foundations.
+
+Together they form one coherent enterprise engineering ecosystem.
+
+---
+
+## Long-Term Vision
+
+The architectural foundations defined in this document are intended to remain valuable throughout many decades of technological change.
+
+Future engineering should continuously build upon these foundations instead of repeatedly redefining them.
+
+Stable foundations enable continuous innovation while preserving architectural identity, engineering quality and long-term sustainability.
+
+---
+
+## Conclusion
+
+Architectural foundations determine the long-term strength of every engineering ecosystem.
+
+By combining disciplined architecture, responsible governance, structured knowledge, durable documentation and accountable leadership, IMPERIAL Core establishes a foundation capable of supporting future generations of intelligent enterprise systems while remaining resilient throughout continuous technological evolution.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
