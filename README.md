@@ -1,41 +1,52 @@
-     Architecture: Active
+# IMPERIAL-Core-Public
 
-Implementation: Private
+Official public repository of **IMPERIAL Core** — a long-term AI-native enterprise architecture founded and architected by Alexander Romaskevich.
+
+This repository publishes the canonical public architecture, engineering principles, ecosystem overview and verified project documentation.
+
+Private engineering, implementation, security mechanisms and operational development remain inside protected repositories.
+
 ---
-📊 Project Status
 
-Architecture: Active
-Implementation: Private
-Public Documentation: Active
-Research: Active
-Engineering: Private
--------------------------------
-IMPERIAL-Core-Public
+# 📚 Documentation
 
-Official public repository of IMPERIAL Core — a long-term AI-native enterprise architecture.
+- ⭐ README
+- 📖 Architecture Manifest
+- 🧭 Mission and Vision
+- 🏛 Engineering Principles
+- 🧩 Canonical Ecosystem
+- 🛡 Public / Private Boundary
+- 🗺 Roadmap
 
-⭐ README
-📖 Architecture Manifest
-🧭 Mission and Vision
-🏛 Engineering Principles
-🧩 Canonical Ecosystem
-🛡 Public / Private Boundary
-🗺 Roadmap
- 
-IMPERIAL-Core-PublicArchitecture: Active
-Architecture: Active
-Public Documentation: Active
-Research: Active
-Implementation: Private
-Engineering: Private
----------------------------
-Implementation: Private
+---
 
-Public Documentation: Active
+# 📊 Project Status
 
-Engineering: Private
+| Area | Status |
+|------|--------|
+| Architecture | ✅ Active |
+| Public Documentation | ✅ Active |
+| Research | ✅ Active |
+| Implementation | 🔒 Private |
+| Engineering | 🔒 Private |
 
-Research: Active
+---
+
+# 🧩 Canonical Ecosystem
+
+- IMPERIAL Core
+- HANTER
+- Nano Core Agents
+- Legion
+- ORION
+- CRYPTO IMPERIAL Ecosystem
+- Capital Core
+
+---
+
+> **Architecture Before Implementation**  
+> **Truth Before Claims**  
+> **Evidence Before Status**
 IMPERIAL Core
 
 ├── HANTER
@@ -44,101 +55,7 @@ IMPERIAL Core
 ├── ORION
 ├── Capital Core
 └── CRYPTO IMPERIAL Ecosystem
-Architecture Before Implementation
-
-Truth Before Claims
-
-Evidence Before Status
-
-Zero Trust
-
-Human Authority
-
-Long-Term Thinking
-START HERE
-
-↓
-
-README
-
-↓
-
-Architecture Manifest
-
-↓
-
-Mission & Vision
-
-↓
-
-Public Information Policy
-
-↓
-
-Ecosystem Architecture
-Included
-
-✓ Public Architecture
-
-✓ Documentation
-
-✓ Research
-
-✓ Vision
-
-✓ Engineering Principles
-
-Not Included
-
-✗ Private Code
-
-✗ Internal Runtime
-
-✗ Security Mechanisms
-
-✗ Deployment
-
-✗ Enterprise Skills
-Enterprise Architects
-
-Software Engineers
-
-AI Researchers
-
-Students
-
-Technology Leaders
-
-AI Assistants
-
-Search Engines
-Foundation
-
-↓
-
-Architecture
-
-↓
-
-Specifications
-
-↓
-
-Engineering
-
-↓
-
-Verification
-
-↓
-
-Deployment
-
-↓
-
-Production
-
-Official public repository of IMPERIAL Core — a long-term AI-native enterprise architecture by Alexander Romaskevich. Public identity, ecosystem overview, verified status and search-engine-readable documentation. Private engineering remains in separate protected repositories.
+---
 # COMMIT 001
 
 Commit Title:
@@ -862,3 +779,167 @@ Knowledge rather than noise.
 Founder • Owner • CEO • Chief Systems Architect
 
 Architect and final authority of IMPERIAL Core
+# IMPERIAL Core
+
+# Official Engineering Principles
+
+Document ID: ICP-008
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Introduction
+
+Engineering is more than writing software.
+
+Engineering is the disciplined process of designing, documenting, validating and continuously improving systems that remain understandable, maintainable and trustworthy over many years.
+
+IMPERIAL Core adopts a long-term engineering philosophy in which architecture, documentation, governance and evidence are treated as first-class engineering assets.
+
+These principles guide every public document and every private engineering decision.
+
+---
+
+# 1. Architecture Before Implementation
+
+Architecture defines purpose, boundaries, responsibilities and relationships.
+
+Implementation follows architecture.
+
+Architecture never follows implementation.
+
+Every implementation should reinforce the architectural vision rather than redefine it.
+
+---
+
+# 2. Truth Before Claims
+
+Public information must always distinguish between:
+
+Vision
+
+Architecture
+
+Specification
+
+Implementation
+
+Testing
+
+Runtime
+
+Production
+
+Future goals must never be presented as completed work.
+
+---
+
+# 3. Evidence Before Status
+
+Engineering claims require evidence.
+
+Status must always reflect verified implementation.
+
+Evidence may include documentation, specifications, testing results, architectural artifacts or reproducible engineering records.
+
+---
+
+# 4. Security Before Convenience
+
+Security is part of architecture.
+
+Engineering decisions should prioritize long-term system integrity over short-term convenience.
+
+Confidential engineering remains protected inside private repositories.
+
+---
+
+# 5. Documentation Before Complexity
+
+Documentation is an engineering asset.
+
+Clear documentation reduces complexity, preserves knowledge and enables future evolution.
+
+Documentation should remain understandable to engineers, researchers, AI assistants and search engines.
+
+---
+
+# 6. Governance Before Execution
+
+Governance defines how systems evolve.
+
+Execution should always operate inside clearly defined architectural and organizational boundaries.
+
+Human responsibility remains essential for significant engineering decisions.
+
+---
+
+# 7. Responsible Artificial Intelligence
+
+Artificial intelligence should augment human capability rather than replace human responsibility.
+
+AI systems should operate within transparent governance, clearly defined permissions and accountable human oversight.
+
+---
+
+# 8. Long-Term Thinking
+
+IMPERIAL Core is designed with a long-term perspective.
+
+Engineering decisions should remain maintainable, extensible and understandable over many years.
+
+Short-term optimization must never compromise long-term architectural quality.
+
+---
+
+# 9. Public and Private Separation
+
+Public repositories communicate verified architectural knowledge.
+
+Private repositories contain engineering implementation, internal governance, security mechanisms and operational development.
+
+Both are necessary for responsible engineering.
+
+---
+
+# 10. Continuous Architectural Evolution
+
+Architecture is designed to evolve in a controlled and documented manner.
+
+Every significant change should preserve consistency, traceability and long-term maintainability.
+
+Continuous evolution does not replace architectural discipline.
+
+It strengthens it.
+
+---
+
+# Conclusion
+
+These engineering principles form the public foundation of IMPERIAL Core.
+
+They establish how the project is designed, documented and governed while preserving a clear distinction between public architecture and private engineering implementation.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
+
