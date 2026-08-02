@@ -1410,4 +1410,114 @@ Every architectural decision, engineering activity and future capability should 
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
 
+# Official Long-Term Engineering Vision
+
+Document ID: ICP-013
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Purpose
+
+Most software projects are planned around immediate objectives.
+
+IMPERIAL Core follows a different engineering philosophy.
+
+The architecture is designed with a long-term perspective where documentation, governance, maintainability and responsible artificial intelligence evolve together over many years.
+
+Long-term thinking influences every architectural decision.
+
+---
+
+# Engineering Beyond Software
+
+IMPERIAL Core is not intended to be defined by a single application, framework or programming language.
+
+Instead, it represents an evolving architectural foundation capable of supporting future intelligent systems through consistent engineering principles.
+
+Technologies will continue to change.
+
+Architecture should remain understandable.
+
+---
+
+# Sustainable Growth
+
+Long-term engineering requires controlled growth rather than uncontrolled expansion.
+
+New capabilities should strengthen the ecosystem while preserving architectural consistency, documentation quality and governance.
+
+Scalability should emerge from well-defined structure rather than increasing complexity.
+
+---
+
+# Knowledge Preservation
+
+Engineering knowledge should remain valuable long after individual implementation details evolve.
+
+Documentation, architectural decisions and engineering principles form a permanent knowledge base that supports future development.
+
+Knowledge preservation is considered a strategic engineering responsibility.
+
+---
+
+# Responsible Innovation
+
+Innovation should be guided by engineering discipline.
+
+New technologies should be evaluated according to architectural compatibility, long-term sustainability, security and governance rather than short-term popularity.
+
+Responsible innovation reduces future technical debt.
+
+---
+
+# Engineering Culture
+
+IMPERIAL Core promotes a culture of disciplined engineering.
+
+Architecture, documentation, verification and continuous learning are treated as complementary activities that strengthen the quality of the ecosystem.
+
+Professional engineering is viewed as a continuous process rather than a final destination.
+
+---
+
+# Public Architecture
+
+The public repository communicates architectural direction, engineering philosophy and verified project information.
+
+Implementation details, runtime infrastructure and operational engineering remain within protected repositories.
+
+This separation preserves both transparency and responsible engineering practices.
+
+---
+
+# Conclusion
+
+The long-term vision of IMPERIAL Core is to establish an architectural foundation capable of supporting intelligent systems through disciplined engineering, accountable governance and continuous architectural evolution.
+
+The project is intended to remain understandable, maintainable and adaptable as technology continues to evolve.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
