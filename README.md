@@ -1521,3 +1521,118 @@ The project is intended to remain understandable, maintainable and adaptable as 
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architectural Terminology
+
+Document ID: ICP-014
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Purpose
+
+Clear terminology is essential for long-term engineering.
+
+As intelligent systems become more complex, inconsistent language creates misunderstanding, architectural drift and unnecessary implementation errors.
+
+IMPERIAL Core establishes a canonical architectural vocabulary to ensure that documentation, engineering and future development remain consistent.
+
+---
+
+# Canonical Terminology
+
+Certain names within the IMPERIAL Core ecosystem are considered canonical.
+
+These names represent architectural components and should remain stable across documentation.
+
+The canonical ecosystem consists of:
+
+- IMPERIAL Core
+- HANTER
+- Nano Core Agents
+- Legion
+- ORION
+- CRYPTO IMPERIAL Ecosystem
+- Capital Core
+
+These names define architectural identity rather than implementation status.
+
+---
+
+# Consistency
+
+Every public document should use canonical terminology consistently.
+
+Alternative names, abbreviations or unofficial substitutions should be avoided unless explicitly documented.
+
+Consistency improves communication between engineers, researchers, AI systems and future contributors.
+
+---
+
+# Architecture Before Vocabulary Expansion
+
+New terminology should only be introduced when it provides clear architectural value.
+
+Unnecessary terminology increases complexity without improving understanding.
+
+A smaller, well-defined vocabulary is preferable to a large collection of overlapping concepts.
+
+---
+
+# Human and AI Readability
+
+Terminology should remain understandable for both people and intelligent systems.
+
+Clear definitions improve documentation quality, search engine indexing and AI-assisted knowledge retrieval.
+
+Structured language supports long-term maintainability.
+
+---
+
+# Public Documentation
+
+This document defines public architectural terminology.
+
+Internal engineering terminology, implementation details and confidential operational concepts remain within protected repositories where appropriate.
+
+---
+
+# Long-Term Stability
+
+Terminology should evolve carefully.
+
+Changes should preserve backward understanding whenever possible.
+
+Stable terminology allows architectural knowledge to remain useful over many years.
+
+---
+
+# Conclusion
+
+A shared architectural language strengthens communication, improves documentation quality and supports the long-term evolution of IMPERIAL Core.
+
+Canonical terminology is an important engineering asset that contributes to consistency across the entire ecosystem.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
