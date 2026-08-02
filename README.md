@@ -3659,4 +3659,144 @@ By combining architecture-first thinking, disciplined governance, durable docume
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architectural Governance Model
+
+Document ID: ICP-031
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Long-term enterprise architecture cannot remain consistent without governance.
+
+As systems evolve, engineering teams expand and intelligent capabilities become increasingly sophisticated, governance provides the structure required to preserve architectural integrity.
+
+Within IMPERIAL Core, governance is treated as a permanent architectural capability rather than an administrative process.
+
+Its purpose is to ensure that architectural evolution remains deliberate, transparent, accountable and aligned with established engineering principles.
+
+---
+
+## Architectural Governance
+
+Architectural governance establishes the rules by which the ecosystem evolves.
+
+It defines how architectural knowledge is created, reviewed, documented and continuously improved.
+
+Governance protects architectural consistency while allowing innovation to occur in a controlled and responsible manner.
+
+The objective is not to restrict engineering creativity, but to ensure that every significant decision strengthens the architecture instead of fragmenting it.
+
+---
+
+## Architectural Authority
+
+Every long-term engineering ecosystem requires a clearly defined architectural authority.
+
+Within IMPERIAL Core, architectural direction remains under accountable human leadership.
+
+Artificial intelligence, automation and intelligent systems may support architectural analysis, engineering research and documentation, but responsibility for architectural direction remains explicitly assigned.
+
+Human accountability is considered a permanent architectural principle.
+
+---
+
+## Governance Through Documentation
+
+Documentation is one of the primary instruments of governance.
+
+Every architectural principle, engineering standard and strategic decision should be documented in a structured and consistent manner.
+
+Documentation enables traceability, preserves architectural intent and provides future engineers with sufficient context to understand why decisions were made.
+
+Governance without documentation eventually becomes impossible to sustain.
+
+---
+
+## Engineering Consistency
+
+Governance promotes consistency across the entire ecosystem.
+
+Consistency applies to:
+
+- architectural terminology;
+- engineering principles;
+- documentation standards;
+- architectural boundaries;
+- public communication;
+- long-term strategic direction.
+
+Consistency enables independent evolution while preserving the identity of the ecosystem.
+
+---
+
+## Responsible Evolution
+
+Every architecture must evolve.
+
+However, evolution should never become uncontrolled.
+
+Governance ensures that architectural changes remain:
+
+- documented;
+- reviewable;
+- understandable;
+- compatible with existing principles;
+- aligned with long-term objectives.
+
+Responsible evolution reduces architectural risk and improves long-term maintainability.
+
+---
+
+## Public Architecture
+
+This repository communicates the public governance philosophy of IMPERIAL Core.
+
+Protected engineering repositories continue implementation, runtime engineering, operational governance, verification and confidential development while remaining aligned with this architectural governance model.
+
+Public architecture explains how the ecosystem is governed without exposing protected engineering assets.
+
+---
+
+## Long-Term Vision
+
+The governance model is designed to remain relevant throughout decades of technological change.
+
+Programming languages, infrastructure platforms, AI models and implementation techniques will evolve.
+
+Architectural governance provides the stability necessary to guide that evolution while preserving engineering quality, architectural clarity and organizational accountability.
+
+---
+
+## Conclusion
+
+Architectural governance is a cornerstone of IMPERIAL Core.
+
+By combining accountable leadership, disciplined documentation, engineering consistency and responsible long-term evolution, the governance model establishes a durable framework capable of supporting future generations of AI-native enterprise systems.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
 
