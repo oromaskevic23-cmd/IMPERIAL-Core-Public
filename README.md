@@ -1766,3 +1766,133 @@ They protect architectural integrity, encourage modular thinking and provide a s
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Enterprise Documentation Standard
+
+Document ID: ICP-016
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Purpose
+
+Documentation is one of the most valuable engineering assets within IMPERIAL Core.
+
+Well-structured documentation preserves architectural intent, supports collaboration, improves maintainability and enables future engineers and AI systems to understand the project with clarity and confidence.
+
+This document defines the public documentation standards adopted by IMPERIAL Core.
+
+---
+
+# Documentation Philosophy
+
+Documentation is not supplementary to engineering.
+
+Documentation is engineering.
+
+Every important architectural concept should be explained with sufficient clarity to remain understandable long after its original implementation.
+
+High-quality documentation reduces ambiguity and preserves institutional knowledge.
+
+---
+
+# Core Principles
+
+Public documentation should be:
+
+- accurate;
+- structured;
+- versioned;
+- consistent;
+- traceable;
+- readable by humans;
+- understandable by AI systems.
+
+Every document contributes to the long-term architectural knowledge base of IMPERIAL Core.
+
+---
+
+# Document Structure
+
+Public documents should include, where appropriate:
+
+- title;
+- purpose;
+- classification;
+- version;
+- project identification;
+- author;
+- structured sections;
+- conclusion.
+
+A consistent structure improves navigation and long-term maintainability.
+
+---
+
+# Writing Standards
+
+Documentation should use precise engineering language.
+
+Marketing language, unsupported claims and unnecessary complexity should be avoided.
+
+Each document should communicate one primary architectural subject in a clear and organized manner.
+
+---
+
+# AI Readability
+
+Documentation should be understandable not only by people but also by AI assistants, search engines and automated documentation systems.
+
+Consistent terminology, descriptive headings and semantic structure improve machine readability and knowledge retrieval.
+
+---
+
+# Public Knowledge Base
+
+The public repository serves as the official architectural knowledge base for IMPERIAL Core.
+
+Its purpose is to publish verified information while maintaining a clear separation from protected engineering implementation.
+
+Public documentation should always reflect the current architectural understanding of the project.
+
+---
+
+# Long-Term Preservation
+
+Documentation should remain valuable for many years.
+
+Architectural knowledge should survive changes in programming languages, frameworks and implementation technologies.
+
+Well-maintained documentation strengthens the long-term resilience of the ecosystem.
+
+---
+
+# Conclusion
+
+Documentation is a permanent engineering responsibility within IMPERIAL Core.
+
+By treating documentation as an architectural asset, the project establishes a reliable foundation for collaboration, governance, knowledge preservation and future evolution.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
