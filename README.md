@@ -3377,4 +3377,141 @@ By combining disciplined architecture, responsible governance, durable documenta
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Long-Term Architectural Roadmap
+
+Document ID: ICP-029
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+A long-term architecture requires a long-term roadmap.
+
+The objective of an architectural roadmap is not to predict specific implementation dates or technologies.
+
+Instead, it provides a stable strategic direction that guides architectural evolution while allowing engineering decisions to adapt to changing technologies, organizational requirements and future research.
+
+IMPERIAL Core treats the roadmap as an architectural planning document rather than a software release schedule.
+
+---
+
+## Architectural Vision
+
+The long-term vision of IMPERIAL Core is to establish an AI-native enterprise architecture capable of supporting intelligent systems through disciplined engineering, responsible governance and sustainable architectural evolution.
+
+Every stage of development should strengthen the architectural foundation rather than introduce unnecessary complexity.
+
+The roadmap exists to preserve long-term consistency across future generations of the ecosystem.
+
+---
+
+## Strategic Evolution
+
+The architectural roadmap is organized around progressive maturity rather than calendar dates.
+
+Typical stages include:
+
+- Foundation
+- Architecture
+- Specifications
+- Engineering
+- Verification
+- Controlled Deployment
+- Operational Maturity
+- Continuous Evolution
+
+Each stage builds upon the previous one while preserving architectural integrity.
+
+---
+
+## Engineering Priorities
+
+The roadmap emphasizes engineering quality over implementation speed.
+
+Priority is given to:
+
+- architectural consistency;
+- documentation quality;
+- governance;
+- knowledge preservation;
+- responsible AI;
+- maintainability;
+- interoperability;
+- enterprise scalability.
+
+Implementation should always reinforce these priorities.
+
+---
+
+## Adaptability
+
+Technology changes continuously.
+
+The roadmap is intentionally technology-independent.
+
+Future programming languages, infrastructure platforms, AI models and engineering tools may change without requiring fundamental redesign of the architectural foundation.
+
+Architecture provides stability while implementation remains adaptable.
+
+---
+
+## Knowledge Growth
+
+As the ecosystem evolves, architectural knowledge will continue expanding.
+
+Documentation, engineering standards and architectural principles should grow together as one coherent knowledge system.
+
+Every published document contributes to the long-term architectural roadmap.
+
+---
+
+## Public Architecture
+
+This repository communicates the public architectural direction of IMPERIAL Core.
+
+Protected repositories continue implementation, experimentation, verification, runtime engineering and operational development while remaining aligned with the published architectural roadmap.
+
+---
+
+## Long-Term Commitment
+
+The roadmap is intended to support decades of continuous engineering.
+
+It represents an ongoing commitment to responsible architecture, sustainable engineering and disciplined technological evolution.
+
+Architectural success is measured through consistency, maintainability and long-term resilience rather than short-term feature delivery.
+
+---
+
+## Conclusion
+
+The IMPERIAL Core Architectural Roadmap establishes a stable strategic direction for future development.
+
+By combining architecture-first thinking, responsible governance, knowledge preservation and enterprise engineering, the roadmap provides a durable foundation for the long-term evolution of the IMPERIAL Core ecosystem.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
 
