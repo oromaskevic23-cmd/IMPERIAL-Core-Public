@@ -2572,3 +2572,137 @@ As the ecosystem grows, every document should continue contributing to a coheren
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architectural Knowledge Preservation
+
+Document ID: ICP-023
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Architecture is more than software.
+
+Architecture is accumulated engineering knowledge.
+
+Every architectural decision, engineering principle, documented interface, design rationale and governance rule represents knowledge that should remain understandable and valuable for many years.
+
+IMPERIAL Core treats architectural knowledge as a long-term strategic asset.
+
+Knowledge should survive technology changes, programming languages, frameworks, infrastructure generations and organizational growth.
+
+---
+
+## Why Knowledge Preservation Matters
+
+Many software projects lose architectural consistency because important decisions disappear over time.
+
+Developers change.
+
+Technologies evolve.
+
+Repositories grow.
+
+Without structured documentation, architectural intent becomes fragmented and eventually disappears.
+
+Long-term engineering requires preserving not only source code but also the reasoning behind architectural decisions.
+
+---
+
+## Engineering Philosophy
+
+Documentation is permanent.
+
+Implementation evolves.
+
+Architecture provides continuity.
+
+Engineering knowledge should always explain:
+
+- why decisions were made;
+- what problems they solve;
+- which alternatives were evaluated;
+- which architectural principles were applied;
+- which long-term objectives are protected.
+
+This information is often more valuable than implementation details alone.
+
+---
+
+## Long-Term Documentation
+
+Public architectural documentation should remain readable by:
+
+- software engineers;
+- enterprise architects;
+- researchers;
+- AI assistants;
+- autonomous engineering systems;
+- future contributors.
+
+Documentation should prioritize clarity, consistency and traceability over unnecessary complexity.
+
+---
+
+## Architectural Continuity
+
+Architectural continuity allows a project to evolve without losing its identity.
+
+Every new document should reinforce previously established principles instead of contradicting them.
+
+Architectural evolution should be deliberate, documented and governed.
+
+This approach minimizes technical debt and preserves engineering quality over long periods of time.
+
+---
+
+## Knowledge as Infrastructure
+
+Within IMPERIAL Core, documentation is considered part of the engineering infrastructure.
+
+Architecture is not treated as optional documentation.
+
+It is one of the core systems that enables responsible engineering, governance and long-term sustainability.
+
+---
+
+## Public Responsibility
+
+The public repository exists to preserve architectural understanding.
+
+Protected repositories continue implementation, testing, operational engineering and confidential research while remaining aligned with the published architectural foundation.
+
+Together they create a consistent engineering ecosystem built on transparency, governance and responsible documentation.
+
+---
+
+## Conclusion
+
+Knowledge preservation is essential for sustainable engineering.
+
+By protecting architectural knowledge alongside software development, IMPERIAL Core aims to remain understandable, maintainable and trustworthy throughout decades of continuous evolution.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
