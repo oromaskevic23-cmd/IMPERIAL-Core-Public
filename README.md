@@ -2356,3 +2356,123 @@ By combining disciplined engineering, structured knowledge, responsible innovati
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architectural Lifecycle
+
+Document ID: ICP-021
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Purpose
+
+Architecture is not a one-time activity.
+
+It is a continuous lifecycle that begins with vision, evolves through disciplined engineering and remains valuable throughout the lifetime of the ecosystem.
+
+IMPERIAL Core treats architecture as a living engineering discipline rather than a static document.
+
+---
+
+# Lifecycle Philosophy
+
+Every architectural component progresses through clearly understood stages.
+
+Each stage contributes to the maturity, stability and long-term sustainability of the ecosystem.
+
+Architecture evolves through deliberate decisions rather than uncontrolled change.
+
+---
+
+# Typical Lifecycle
+
+A typical architectural lifecycle includes:
+
+- Vision
+- Research
+- Architecture
+- Specification
+- Engineering
+- Verification
+- Continuous Evolution
+
+Each phase has a distinct purpose and contributes to long-term architectural quality.
+
+---
+
+# Documentation Throughout the Lifecycle
+
+Documentation accompanies every stage of development.
+
+Architectural knowledge should evolve together with the system, preserving engineering decisions, design rationale and historical context.
+
+Well-maintained documentation improves maintainability and future collaboration.
+
+---
+
+# Governance
+
+Architectural evolution should remain governed.
+
+Significant changes should align with established engineering principles, architectural consistency and long-term project objectives.
+
+Governance ensures that evolution strengthens rather than fragments the architecture.
+
+---
+
+# Continuous Improvement
+
+No architecture is ever considered permanently complete.
+
+Continuous review, refinement and learning are fundamental engineering responsibilities.
+
+Improvement should be systematic, documented and evidence-based.
+
+---
+
+# Public Architecture
+
+This repository documents the architectural lifecycle of IMPERIAL Core.
+
+Protected repositories continue implementation, verification, operational engineering and confidential development while maintaining consistency with the published architectural foundation.
+
+---
+
+# Long-Term Perspective
+
+The architectural lifecycle is designed to support decades of evolution.
+
+By preserving knowledge, governance and engineering discipline, the architecture remains resilient as technologies and organizational needs continue to change.
+
+---
+
+# Conclusion
+
+The architectural lifecycle provides a structured path for sustainable evolution.
+
+It enables IMPERIAL Core to grow responsibly while preserving architectural integrity, documentation quality and long-term engineering excellence.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
+
