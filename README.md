@@ -2475,4 +2475,100 @@ It enables IMPERIAL Core to grow responsibly while preserving architectural inte
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
 
+# Official Public Documentation Standards
+
+Document ID: ICP-022
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+## Purpose
+
+Public documentation is a strategic engineering asset.
+
+Every document published by IMPERIAL Core should communicate architectural intent with clarity, consistency and technical accuracy.
+
+The objective is to create documentation that remains valuable for developers, researchers, AI systems and future generations of the project.
+
+---
+
+## Core Standards
+
+Every public document should be:
+
+- technically accurate;
+- evidence-oriented;
+- architecture-first;
+- human-readable;
+- AI-readable;
+- search-engine-readable;
+- versioned;
+- maintainable.
+
+---
+
+## Structure
+
+Documents should follow a consistent structure including:
+
+- title;
+- document identifier;
+- version;
+- status;
+- purpose;
+- main content;
+- conclusion;
+- authorship.
+
+Consistency improves long-term maintainability and discoverability.
+
+---
+
+## Writing Principles
+
+Documentation should explain architectural decisions rather than simply describe implementation.
+
+Clear language is preferred over unnecessary complexity.
+
+Every statement should remain understandable years after publication.
+
+---
+
+## Public Responsibility
+
+Public documentation represents the official architectural voice of IMPERIAL Core.
+
+Accuracy, transparency and consistency are treated as engineering responsibilities rather than marketing objectives.
+
+---
+
+## Long-Term Vision
+
+Documentation is expected to evolve together with the architecture.
+
+As the ecosystem grows, every document should continue contributing to a coherent and trustworthy architectural knowledge base.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
