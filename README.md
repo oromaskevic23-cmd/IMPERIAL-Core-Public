@@ -1049,3 +1049,132 @@ For this reason, architectural decision-making is treated as one of the most imp
 Founder • Owner • Chief Systems Architect
 
 IMPERIAL Core
+# IMPERIAL Core
+
+# Official Architecture Governance
+
+Document ID: ICP-010
+
+Classification: Public
+
+Version: 1.0.0
+
+Status: Canonical
+
+Project
+
+IMPERIAL Core
+
+Author
+
+Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+---
+
+# Purpose
+
+Architecture requires governance.
+
+Without governance, architectural consistency gradually disappears as systems evolve.
+
+IMPERIAL Core establishes architecture governance as a continuous engineering discipline that preserves long-term consistency, accountability and responsible system evolution.
+
+---
+
+# Governance Philosophy
+
+Architecture governance ensures that every significant engineering decision remains aligned with the long-term architectural vision.
+
+Governance is intended to preserve clarity rather than introduce unnecessary bureaucracy.
+
+---
+
+# Architectural Authority
+
+The Architect defines the architectural direction of IMPERIAL Core.
+
+Significant architectural changes should remain consistent with the canonical engineering principles of the project.
+
+Architectural responsibility remains accountable under human authority.
+
+---
+
+# Documentation Governance
+
+Documentation represents architectural knowledge.
+
+Every public document should remain:
+
+• technically accurate;
+
+• understandable;
+
+• traceable;
+
+• versioned;
+
+• consistent with canonical terminology.
+
+Documentation is considered part of the engineering process.
+
+---
+
+# Engineering Consistency
+
+Governance promotes consistency across:
+
+• architecture;
+
+• documentation;
+
+• terminology;
+
+• engineering principles;
+
+• ecosystem structure.
+
+Consistency improves long-term maintainability.
+
+---
+
+# Responsible Evolution
+
+Architecture is expected to evolve.
+
+Evolution should be deliberate, documented and governed.
+
+Changes should strengthen the architecture rather than introduce fragmentation.
+
+---
+
+# Public Transparency
+
+Public governance documents explain how the architecture is managed without exposing confidential engineering implementation.
+
+Private engineering repositories continue implementation within protected environments.
+
+---
+
+# Long-Term Perspective
+
+Architecture governance is designed for decades rather than individual development cycles.
+
+Its objective is to maintain architectural integrity throughout the entire lifecycle of IMPERIAL Core.
+
+---
+
+# Conclusion
+
+Architecture governance preserves the identity, consistency and engineering quality of IMPERIAL Core.
+
+It ensures that long-term architectural evolution remains transparent, responsible and professionally managed.
+
+---
+
+© 2026 Alexander Romaskevich
+
+Founder • Owner • Chief Systems Architect
+
+IMPERIAL Core
